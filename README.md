@@ -17,7 +17,7 @@
 </p> -->
 <p align="center"> 
   <a href="https://discord.gg/8v6dfwEZd4" target="_blank">
-      <img src="https://api.mikzbots.xyz/api/image.php?id=744700195404644552&template=mikz&nocache=67890"/>
+      <img src="https://api.mikzbots.xyz/api/image.php?id=744700195404644552&template=mikz&nocache=67890" height="95""/>
   </a>
 </p>
 
