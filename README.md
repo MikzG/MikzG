@@ -26,5 +26,8 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikzg&" alt="mikzg" /></p> -->
 
 <p align="center"> 
-  <img src="https://api.mikzbots.xyz/api/image.php?id=744700195404644552&template=mikz&rand=<?= time() ?>" /> 
+  <a href="https://discord.gg/8v6dfwEZd4" target="_blank">
+    <img src="https://api.mikzbots.xyz/api/image.php?id=744700195404644552&template=mikz" />
+  </a>
 </p>
+
