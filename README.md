@@ -25,4 +25,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikzg&" alt="mikzg" /></p> -->
 
-<p align="center"> <img src="https://api.mikzbots.xyz/api/image.php?id=744700195404644552&template=mikz" /> </p>
+<p align="center"> 
+  <img src="https://api.mikzbots.xyz/api/image.php?id=744700195404644552&template=mikz&rand=<?= time() ?>" /> 
+</p>
