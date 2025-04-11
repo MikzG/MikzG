@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikz</h1>
 <h3 align="center">A passionate Cyber Security apprentice</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micampil&label=Profile%20views&color=0eb64f&style=for-the-badge" alt="micampil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikzg&label=Profile%20views&color=0eb64f&style=for-the-badge" alt="mikzg" /> </p>
 
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **C**<br><br>- 📝 My personal website is [https://mikzbots.xyz](https://mikzbots.xyz)<br>
